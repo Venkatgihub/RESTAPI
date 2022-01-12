@@ -1,0 +1,14 @@
+-XX:MinHeapFreeRatio=20
+-XX:MaxHeapFreeRatio=40
+-Xms128m
+-Xmx1000m
+-Dsoapui.properties=soapui.properties
+-Dsoapui.home=C:\Program Files\SmartBear\SoapUI-5.6.1/bin
+-Dsoapui.ext.libraries=C:\Program Files\SmartBear\SoapUI-5.6.1/bin/ext
+-Dsoapui.ext.listeners=C:\Program Files\SmartBear\SoapUI-5.6.1/bin/listeners
+-Dsoapui.ext.actions=C:\Program Files\SmartBear\SoapUI-5.6.1/bin/actions
+-Dwsi.dir=C:\Program Files\SmartBear\SoapUI-5.6.1/wsi-test-tools
+-Djava.library.path=C:\Program Files\SmartBear\SoapUI-5.6.1/bin
+-Djava.util.Arrays.useLegacyMergeSort=true
+-splash:SoapUI-Spashscreen.png
+-Dlog4j2.formatMsgNoLookups=true
